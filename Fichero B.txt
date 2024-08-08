@@ -1,1 +1,2 @@
-Este es el contenido del fichero B
+Este es el contenido del fichero B 
+se modifico con checkout
